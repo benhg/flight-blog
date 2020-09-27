@@ -1,8 +1,6 @@
-## Welcome to GitHub Pages
+# Ben's Flight Blog
 
-You can use the [editor on GitHub](https://github.com/benhg/flight-blog/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+To keep myself honest, I've decided to keep my personal notes from each flight I take in a blog, which everyone can see. Hopefully, this will get me in the habit of writing something up every time I take the air. It will also let me share some of the things I learn and formalize my process. Finally, it will serve as the fourth copy of all of my flight info (Behind my official logbook, my in-flight notebook, and ForeFlight on my iPad.)
 
 ### Markdown
 
