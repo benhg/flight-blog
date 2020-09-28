@@ -2,11 +2,25 @@
 
 To keep myself honest, I've decided to keep my personal notes from each flight I take in a blog, which everyone can see. Hopefully, this will get me in the habit of writing something up every time I take the air. It will also let me share some of the things I learn and formalize my process. Finally, it will serve as the fourth copy of all of my flight info (Behind my official logbook, my in-flight notebook, and ForeFlight on my iPad.)
 
+## Logbooks and Note-Taking: September 28, 2020
+
+The FAA requires that you keep an accurate record of all the flights you take. Most pilots keep records in excess of what the FAA deems necessary. I am striving to land on this side of the coin as well. Many people, myself included, keep "official" logbooks on green ledger paper, with entries that look something like this:
+
+
+![sample-logbook-entry](https://cdn.boldmethod.com/images/learn-to-fly/cfis/logbook-advice-for-every-pilot/3.jpg).
+
+However, I usually fill out my "official" logbook only after the flight is over and the postflight inspection has been done. During the pre-flight and flight, I keep notes in a separate small notebook, which I keep on my kneeboard for easy access while doing other things. I am still working on the format, but I have attached a sample notebook page below as an example.
+
+![inflight-notebook-page](inflight-notebook-page.jpg).
+
+After landing, I fill out my official logbook, enter flight details into ForeFlight on the ipad (preferrably with flight track logs), and have a debrief with Andrew. I take notes pre- and post-flight in a large notebook, and those notes later become the basis of these blog posts.
+
+
 ## Flight 4: September 27, 2020
 
 ### Ground, Pre-flight
 
-Went over notes from yesterday’s flight (CFI and I were both super tired so we did a very minimal debrief last night. Filled in from notes today. This portion of today’s notes have been backported into yesterday’s entry.)
+Went over notes from yesterday’s flight (Andrew and I were both super tired so we did a very minimal debrief last night. Filled in from notes today. This portion of today’s notes have been backported into yesterday’s entry.)
 
 We talked about the power-off stall, why we need to do it, what we are going to do. That is summarized below:
 
