@@ -2,6 +2,13 @@
 
 To keep myself honest, I've decided to keep my personal notes from each flight I take in a blog, which everyone can see. Hopefully, this will get me in the habit of writing something up every time I take the air. It will also let me share some of the things I learn and formalize my process. Finally, it will serve as the fourth copy of all of my flight info (Behind my official logbook, my in-flight notebook, and ForeFlight on my iPad.)
 
+# Ground Instruction, Session 1: October 1, 2020
+
+Today, I had my first ground-instruction session. In ground instruction, I will learn more about things like the physics of flight, necessary meteorological knowlege, flight planning and decision making, and other necessary things that are not directly related to flying. For our ground instruction, I am using the Jeppesen's Privot Pilot's Manual (aviators really like to call books "Manuals").
+
+
+
+
 ## Logbooks and Note-Taking: September 28, 2020
 
 The FAA requires that you keep an accurate record of all the flights you take. Most pilots keep records in excess of what the FAA deems necessary. I am striving to land on this side of the coin as well. Many people, myself included, keep "official" logbooks on green ledger paper, with entries that look something like this:
