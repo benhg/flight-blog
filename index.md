@@ -19,7 +19,58 @@ Section B is titled "Aviation Opportunities," and there are only a couple of use
 
 Section B covers an introduction to human factors. During this section, we talked about a number of things, most of which can fit either into the category of Aeronautical Decision Making and Pilot In Command Responsibility. We talked about how A.D.M. includes things like making good decisions about whether to make a flight or not, given weather conditions, whether to make maneuvers we paln to, and other decisions in or related to airplanes. We talked about Single-Pilot and Crew Resource Management. We talked about how it's important that a pilot learns to do everything inside an airplane, in order to make sure that they are able to manage a flight themself. We also talked about the accident chain. Consider an example: Let's say I promised to be my friend's best man in his wedding tomorrow in L.A. I wake up the morning of after a late night out. Initially, I had hoped to leave early in the morning, but I got sidetracked with errands and work. By the time I make it to the airport, I'm already running late. I abbreviate my pre-flight and fail to check my fuel levels. I take off into deteriorating weather conditions, because I decide I have to get to LA ASAP. Now, winds are picking up, and it's starting to rain. Clouds are rolling in. Midway through my flight I notice I'm low on fuel. Now the sun is setting, and there is a layer of clouds below me. I try to land to the minimums at a nearby airport, but the fog goes too low. I have to do a go-around while I'm having a fuel emergency. Bad things can happen in this situation. The whole thing could have been avoided if I just didn't have a long night out last night.
 
-After that, we talked about how to manage resources. We talked about how resources can include things like charts, information on ipads, communication with ATC, other pilots, people around the club, autopilot, in-plane technology, and other things. We also talked about how situational awareness is important, and that essentially, situational awareness is about paying attention to what's going on.
+After that, we talked about how to manage resources. We talked about how resources can include things like charts, information on ipads, communication with ATC, other pilots, people around the club, autopilot, in-plane technology, and other things. We also talked about how situational awareness is important, and that essentially, situational awareness is about paying attention to what's going on. We compared airplane situational awareness to that when one is operating a car. We remarked about how one needs to constantly be looking at engine gauges and instruments, and paying attention to the radios, looking at the horizon, and paying attention to wind and weather conditions.
+
+We also went over the following acronyms to understand when it is safe to fly:
+
+```
+Illness
+Medication
+
+Sleep/Stress
+Alcohol
+Fatigue
+Eating
+
+and
+
+Macho
+Invulnerability
+Impulsivity
+Resignation
+Anti-authority
+```
+
+### Chapter 2
+
+#### Airplanes
+
+We talked about the powerplant, fuselage, and empennage. The Powerplant is the area including the engine, and goes from the propeller back to the firewall. The Fuselage is the whole area that includes the cargo compartments, passengers, and so on. The Empennage is the "tail feathers" - the stabilizers and control surfaces. We talked about monocoque and semi-monocoque designs. With a monocoque, the skin is structural, and tension in the skin is important to the structural stability of the plane. In a semi-monocoque design, the skin of the plane is reinforced with struts and "ribs" such that a dent or break in any single section of the plane does not harm the structural integrity of the plane. We talked about how flaps provide extra lift and also extra drag. They can be used to slow down the plane, as well as to allow for slow-flight by increasing the amount of lift. We also talked about how planes can fly with flaps extended at speeds higher than VFE.
+
+We talked about landing gear, and the difference between tricycle and tailwheel, and the fact that gear is made of an alloy called "spring steel" which has a stress-strain curve that allows it to experience a lot of elastic deformation, which makes it stand up to landings better. We talked about how Cessnas do not have antilock brakes, and as such are quite easy to flat-spot tyres on.
+
+We also talked about some abnormalities of light aircraft engines. First, they have removable cylinders, rather than a block like normal car engines. They are also almost always aircooled. They have pushrod valves, and valve timing is adjusted by changing the length of the pushrods. They also are not very efficient, because they need to burn a lot of fuel, in order to create enough torque to drag a plane through the sky. Finally, they are canted to the right, because they have left-turning tendencies. 
+
+#### Documentation
+
+Planes must have specific documentation. We talked about this a bit while we were waiting for fuel last Sunday, but the basic idea is as follows. Since March of 1979, the FAA has required that planes have an FAA approved Pilot's Operating Handbook (Approved Flight Manual). These manuals are certified by the FAA and must contain specific content in a specific order. Additionally, whenever equipment is added to a plane, a supplement must be added to the manual which covers it. The organization is summarized by the acronym below:
+```
+General
+Limitations
+Emergency procedures
+Normal procedures
+
+Performance
+
+Weight and balance
+Airplane and systems
+Supplements
+Safety
+```
+
+### Flight Physics
+
+Relative wind 
 
 ## Logbooks and Note-Taking: September 28, 2020
 
