@@ -2,6 +2,13 @@
 
 To keep myself honest, I've decided to keep my personal notes from each flight I take in a blog, which everyone can see. Hopefully, this will get me in the habit of writing something up every time I take the air. It will also let me share some of the things I learn and formalize my process. Finally, it will serve as the fourth copy of all of my flight info (Behind my official logbook, my in-flight notebook, and ForeFlight on my iPad.)
 
+## Flight 5: October 3, 2020
+
+Today, we didn't try anything new, just practiced the things I was having the most trouble with. Those things are power-off stalls, steep turns, and slow flight. Today the air was extremely smokey and didn't have great visibility, so we held off on power-on stalls, which we need a good strong horizon to practice with. Overall, I had a great flight. I felt a lot more comfortable than I have before with the controls. I still made plenty of mistakes, as expected, but I also felt a lot more in control than last week, for example.
+
+### Ground, Pre-Flight
+Today's pre-flight was abbreviated, because Andrew ran a bit late, and we weren't doing anything new. I did create an account in IACRA and signed up to get an official student pilot certificate, which will allow me to legally solo, once it's time. I do not forsee that happening any time soon, but it's nice to get the paperwork out of the way. We did a quick weather briefing, talked about how the haze and smoke were definitely going to be a factor today, and got on our way. We flew in 305RS, which is one of the newest planes in Aviation's fleet. We noticed that it hadn't been perfectly put away. The control lock was out, light switches were in the wrong positions, and the avionics master switch was on.
+
 ## Ground Instruction, Session 1: October 1, 2020
 
 Today, I had my first ground-instruction session. In ground instruction, I will learn more about things like the physics of flight, necessary meteorological knowlege, flight planning and decision making, and other necessary things that are not directly related to flying. For our ground instruction, I am using the Jeppesen's Privot Pilot's Manual (aviators really like to call books "Manuals"). Today, we covered chapters 1, 2, and 3. There were several things that I thought I would know, that it turned out I did not.
