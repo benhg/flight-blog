@@ -2,6 +2,72 @@
 
 To keep myself honest, I've decided to keep my personal notes from each flight I take in a blog, which everyone can see. Hopefully, this will get me in the habit of writing something up every time I take the air. It will also let me share some of the things I learn and formalize my process. Finally, it will serve as the fourth copy of all of my flight info (Behind my official logbook, my in-flight notebook, and ForeFlight on my iPad.)
 
+## Flight 6: October 10, 2020
+
+Today, i had a good flight. A lot of practice with things I have previously tried, as well as learning a couple of new things.
+
+### Ground, Pre-flight:
+
+
+Before the flight, I did the weather briefing, checked flight restrictions, and set up my notebook. We planned to practice turning stalls and approach-to-land stalls. An approach-to-land stall is, as the name suggests, a stall that occurs when the plane is configured for approach-to-land. To do an approach-to-land stall, follow the procedure below:
+
+- Configure the plane for slow flight:
+    - Power to 1500
+    - Sequentially deploy full flaps while keeping plane level
+- At 1.3Vs0, pitch down, put the crosshair 1 inch below the horizon.  and trim for a constant-rate descent at -500 feet per minute
+- The power will drop. Increase power to 1500 RRPM.
+- After reaching a steady-state in descent
+- Pull power to idel
+- Gently pitch up into the stall
+- While steering right with the rudder
+- Recover the same as a regular power-off stall:
+	- Relax backpressure gently
+	- Apply full power 
+	- Flaps to 20
+	- Look for VSI reversal
+	- Flaps to 10
+	- Climb to a safe altitude
+	- Flaps to 0
+	- Pitch for level, resume level flight.
+
+A turning stall is just adding a turn into a normal power-off (or power on) stall:
+
+- Configure plane as desired (with flaps if power-off without flaps if power-on)
+- At 1.3Vs0:
+    - Bank/Ball to turn in desired direction
+    - Power to idle
+    - Begin to pitch up
+        - The plane has a tendency to overbank at high attitudes when pulling up and turning. Opposite aileron will be needed.
+    - Hold turn with rudder. Continue to gently pull the plane up unil the stall happens.
+
+To recover:
+
+- Relax backpressure
+- Full power
+- Roll level and pitch level
+- Flaps to 20
+- VSI reversal
+- Flaps to 10
+- Climb
+
+
+### Flight
+
+Today's flight went really well overall. It started off a bit rough, but once I settled in, most of the maneuvers went pretty well. Andrew is slowly allowing me to take responsibility for more things during the flight. For example, I'm starting to take on some of the radio communication. Additionally, I did the whole preflight myself, with Andrew watching to make sure I did okay.
+
+We had a little bit of a frenetic departure. As we were doing the engine start checklist, a plane needed to taxi exactly to where we were, and we were in their way. Andrew took over to get us out of the way before we finished the checklists. Additionally, while we were doing our run-up we noticed there were several planes landing and taking off ahead of us. We did a left-downwind departure towards San Martin, in a relatively windy and bumpy bit of air. We headed south, staying below SFO's Class B airspace and SJC's Class C airspace. Andrew pointed out that normally on the downwind leg of the departure, after the crosswind leg, we like to slow down and fly level, in order to give ourselves a minute to think while we deal with norcal on the radio. Today, PAO asked us to turn right 20 degrees to get out of their way. 
+
+We spent a lot of our flight doing clearing turns, slow flight, stalls, and steep turns. Overall, I am showing improvement. I did an especially good job of pitching for level based on the outside environment, and on trimming the plane. I still have a tendency to refer to the insturments more than I should, and I need to remember that my eyes tell me what is happening now, while the instruments tell me what the plane was doing 500 feet ago. I also still have a tendency to overcontrol the plane, though I did better at that today, especially during turbulence.
+
+My steep turns are improving. During the actual turns, I am doing a much better job of staying level, and keeping the bank angles right. We practiced six or eight steep turns, some of which were pretty circular, and some of which were more egg-shaped. I tended to gain or lose a lot of altitude at the end of the turn, during the roll-out. It's good that I am better at holding altitude constant during the turns, but I need to avoid busting maneuvers on the roll-out.
+
+Next, we spent about 25 minutes in slow flight. We practiced slow flight for a while, and worked on turning, climbing, descending, and otherwise operating the airplane in slow flight. The horizon was difficult to find at times, and we talked about how in the absence of a horizon, during slow flight, we should pitch for 50 knots, which is just above stall speed of 305RS. I was being too hands-on with the plane throughout slow-flight. When Andrew flies the plane, he makes sure the plane is in trim, and then uses extremely small inputs on the controls. I have a tendency to squeeze the yoke and not let go. 
+
+Next, we moved on to the stalls. My straight-ahead power-off stalls are improving. I need to get better at memorizing the entry. At times, I deployed the flaps either early or late. Having the procedure better memorized will help me not do that. We want all of the flaps to be deployed by 1.3VS0. The flaps need to be deployed sequentially, using the plane's response as a trigger to deploy the next step. I am getting significantly better at the actual stall itself. The pull-up is more stable and gentle. The recovery is also improving, but I need to apply a lot more right rudder during the recovery. During the approach-to-land stall, I am not pulling the power all the way to idle promptly enough when it's time. Before that though, I need to make sure the power stays at 1500 RPM, so that the plane has the proper pitch. The approach to land configuration is as follows: 65 kts airspeed, full flaps, power at 1500, pitch 1 inch below the horizon. During the turning stalls, I did pretty well. I was a little bit shy about pulling in the stall, and I tended to overcontrol the plane a bit.
+
+Finally, we moved on to ground reference maneuvers. There was a lot of wind and not a ton of visibility, so they were a litle bit difficult. I need to pay more attention to both the pylon and the horizon, to avoid gaining or losing altitude during the maneuver. I also need to have a lighter touch with the controls, even for maneuvers in which there is constant change in input. We also worked on S-turns, which are similar to turns around a point, but are more difficult and frenetic, as there is a very narrow time window for choosing a pylon. I should always hit the reference line perpindicular to it, unless the wind is at a diagonal. I was tending to overcontrol the pitch, and overbank on the upwind leg of the maneuvers. On our way back to PAO, we finished up by practicing the EGT leaning technique.
+
+
 ## Ground Instruction, Session 2: October 8, 2020
 
 Today, we covered chapter 3B and chapter 2B. Fewer chapters than last week, but they were also more detailed and covered more complex topics.
