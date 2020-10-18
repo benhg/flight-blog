@@ -2,6 +2,44 @@
 
 To keep myself honest, I've decided to keep my personal notes from each flight I take in a blog, which everyone can see. Hopefully, this will get me in the habit of writing something up every time I take the air. It will also let me share some of the things I learn and formalize my process. Finally, it will serve as the fourth copy of all of my flight info (Behind my official logbook, my in-flight notebook, and ForeFlight on my iPad.)
 
+## Flight 7: October 17, 2020
+
+### Ground, Pre-Flight
+
+Before the flight, we planned to head out towards half-moon bay, to work on steep turns and stalls. The procedure for power-on stalls is much simpler than the procedure for power-off ones, but it is much much harder, because it's like trying to fly the plane on a tightrope. Below, the procedure for a power-on stall is summarized:
+```
+0. Clearing turns, establish AT LEAST 1500 ft AGL (We usually do 3500), 90 kts at 2100RPM, and NO FLAPs. This mimics take-off configuration.
+1. Power to 1500RPM, pitch up to maintan altitude and start to make airspeed drop SLOWLY. No trim changes necessary.
+2. Continue this until we start to hear the stall horn. The stall horn is an aural cue that you are beginning to near the critical angle of attack.
+3. Upon hearing stall horn, begin pulling up more, to enter the stall. You will have to pull up more than for a power-off stall. Almost simultaneously (but not simultaneously) begin to apply power, you will be near 65% power for the rest of the maneuver. You  will need to apply right rudder and simultaneous left aileron to keep the plane straight.
+4. Hold this attitude until the plane stalls, and the nose drops.
+```
+The recovery is pretty simple, especially because you have no flaps. It's summarized here:
+```
+1. Nose will drop. Simultaneously:
+	a. apply right rudder to correct for P-factor, gyroscopic procession, and torque
+	b. apply full power
+2. Crosshair to the horizon, accelerate to rotation speed (about 55 kts for a C172)
+	a. Establish vertical speed and visibility
+3. Regular climb (usually either Vx or Vy), or sometimes a cruise climb.
+4. Climb to specified altitude, resume level flight. 
+```
+We had a normal weather briefing, pre-flight, and taxi. However, during the run-up we noticed some problems. The fuel gauges were refusing to show a constant level, and instead were slowly flipping from full to empty. Fuel gauges are FAA required equipment, and so the plane was un-airworthy without the working fuel gauges. We scrubbed the flight, reported the issue, and  luckily were able to find a new plane.
+
+After abruptly switching planes, we walked out to the plane, did a super quick (but still thorough) pre-flight, started up and taxied over to the run-up area. There was still a little fluctuation in the gas gauge (i had a war flashback) but that turned out to be just an artifact of the right tank being a little overfull. Even with all of this nonsense, we managed to get a pretty good flight in, although this plane was a bit strange.
+
+### Flight
+
+The actual flight went really well. Starting from the beginning, when I had no trouble on the radio on the ground. I did say `66805` rather than the actual tail number `66085` once, but PAO ground was very nice about it. I am also getting significantly better at the normal take-off. We made a left-dumbarton departure towards Half-Moon Bay, where we were going to practice our stalls and steep turns. During the noise-abatement maneuver, I tried to turn a little early. The 10 degree right turn should start at the airport boundary. For a left-dumbarton departure, you turn left as you are crossing over the bridge. We climbed to 3500 feet to stay well above terrain but below SJC's class-D airspace and SFO's Class-B airspace. 
+
+Once we got out to half moon bay, we noted how beautiful and still the ocean looked (super calm winds and excellent visibility). We practiced two steep turns (one left and one right), both of which I did within the practical test standard of +/- 100 Ft. I still have a tendency to climb during them, but I am getting much better at doing steep turns.
+
+Next, we moved on to slow flight. Previously, I have been learning to fly at the edge of stall, and pitch for that. Next, we are going to try to start having me fly without the stall horn kicking in. This plane had an extremely quiet stall horn, which was a little difficult to deal with later on (during power-on stalls) and the plane was out of alignment and had a little bit of a right-turning tendency (that's unusual and disorienting). This plane's stall horn also was calibrated to kick in around 65 knots, which is too high. On a C172, it should kick in at about 55 kts.
+
+Next up was the approach to land stall. I was much better and more confident with the configuration. We practiced pitch and trim with flaps and pitching down for apporoach-to-land. We did this twice, and I was much better at it the second time around. We practiced a stall after having pretended to overshoot a runway, annd entered a cross-control stall. We practiced using coordinated aileron and rudder to properly recover from the stall. Going forward, I will need to learn to do that quicker. I took about 110 degrees of turn to do so, and ideally we want to stall the plane within 90 degrees. On stall recovery, I should be pushing in the right rudder more than I am, even though the plane we were using has right-turning tendencies. This is because the plane will yaw badly to the left upon recovery,
+
+Finally, we practiced the power-on stall. It is really like walking on a tightrope. I need both more right-ruder and more left-aileron while I am moving towards the stall. At the top of the maneuver, I need a lot more right rudder and left aileron to keep the plane level. I also need to practice leveling the plane with my peripheral vision. Andrew gave me a couple of parting thoughts, which are mostly about confidence. He said I should be a lot less shy about controlling the plane, and I should be more assertive. Don't let the plane fly me, but I have to fly the plane. He said I am ready to hear that because he sees that I am building the necessary flying skills, ad I just need to become a bit more confident.
+
 ## Ground Instruction, October 15, 2020
 
 Today, we finished the powerplant chapter, covered the last of the  aerodynamics chapters (sad, I know), then talked mostly about Say Again Please, which is a book about how to properly engage in radio communications.
