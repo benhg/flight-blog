@@ -6,7 +6,7 @@ At the end of each month, entries for that month will be moved to a new page for
 
 ## Index:
 
-- [September 2020](sept-20.md)
+- [September 2020](sept-20.html)
 
 
 ## Flight 7: October 17, 2020
