@@ -8,6 +8,79 @@ At the end of each month, entries for that month will be moved to a new page for
 
 - [September 2020](sept-20.html)
 
+## Flight 8: October 18, 2020
+
+### Ground
+
+Today was a big day! It was time for me to learn to land an airplane. Landing is definitley the hardest and most complicated maneuver I have learned to date. It will require a lot of practice before I can really get it right. We also spent some time talking about airport markings and how to read wind socks, as well as general unfamiliar airport approach. At some point, I'll make a separate post about notation and schematic drawing for airports, as well as my handy airport notecard format. The long and complex procedure for approach to land is summarized below:
+
+```
+0. By the time you reach the downwind leg, configure for approach level flight (90 kts @ 2200 RPM) and carry out the pre-landing checklist (ATIS/etc.)
+1. ABEAM: 
+	- Reduce power to 1500 RPM
+	- Configure flaps 10 degrees
+	- Pitch/Trim for approach-to-land:
+		- Get 1000 ft AGL (or otherwise pattern altitude)
+		- 1 inch below horizon
+		- 1500 RPM
+		- Constant-rate descent at -500 ft/min
+2. TURN BASE:
+	- Approx. 800 ft AGL, and diagonal to runway numbers (assuming 1000 ft pattern)
+	- Turn to crab heading (into wind)
+	- Extend flaps to 20 during turn
+	- Maintain pitch attitude for -500 ft/min
+3. KEY POINT (2/3 down base leg):
+	- Start to see VASI
+	- If high (white/white) you are too fast. You will hit the runway early. Reduce power, and hold pitch to keep proper attitude. If excessively high, you will need to pitch down more.
+	- If power is pulled to idle, abandon the angle and instead pitch for 1.3VS0
+	- If too low (red/red), you are too slow. Increase power, and pitch up to intercept the VASI
+4. TURN FINAL:
+	- Approx 500 ft. AGL
+	- Pitch/trim for VASI
+	- Adjust power to match ground speed with descent gradient (descent slope)
+	- If excessively high, power to idle, abandon VASI and pitch for 1.3VS0
+	- If low, add power, pitch up for VASI
+	- Adjust pitch/power to stay on VASI slope
+	- Keep the friction lock loose and hand on throttle throughout final.
+5. SHORT FINAL:
+	- Reach a distance that airplane's inertia will carry plane to runway
+	- Said another way, you can glide to the runway without power
+	- When this happens, slowly pull power to idle
+	- The sooner you pull power, the more you must pitch down to maintain airspeed
+	- The stronger the headwind, the longer the plane will want to float in the air.
+6. FLARE:
+	- During glide, rotate into ground effect
+	- Having pulled power, continuously pull upp into power-off stall attitude, to break the glide
+	- This should happen 3-5 ft over the runway
+	- Continue to pitch up to decay airspeed
+		- This adds lift to allow for a soft landing
+		- Keep the nose high
+		- COntinue to flare until plane touches down on MAIN GEAR
+	- If you can see the runway while this is happening, you're doing it wrong.
+7. ROLL-OUT:
+	- Roll out while braking straight ahead (DO NOT brake into the turn)
+	- Taxi off at taxi speed
+		- Do not stop before making the turn towards the ramp
+8. FINAL through FLARE:
+	- Apply cross-wind inputs while on final leg through touchdown and taxi
+	- Apply aileron into wind - opposite of drift
+	- Rudder into crosswind, to keep straight
+	- This is called a SIDESLIP, and it feels super unnatural.
+		- Especially if wind from the right, because you need to use right aileron and left rudder, which feels bizarre
+	- Slowly increase aileron deflection to full by the time you reach taxi speed
+	- Also, during slow-down pull stick back to increase drag and help slow down the plane.
+```
+So there's a lot going on in that procedure. That's the reason you don't learn it until you have a solid foundation, and you need hundreds of landings before a check-ride is going to happen.
+
+### Flight
+
+The flight went well. I'm starting to build confidence in normal flight (like, flight to go somewhere), to the point that I don't need much intervention from Andrew during the initial phase of flight, on our way out to various practice areas. Today, after start, I didn't pull the power back to 900 RPM quite as quick as I should have, but the pre-flight stuff otherwise went pretty well. Andrew says I am improving at starting the engine and talking on the radio. I handled the interactions with PAO tower and ground pretty well, though Andrew had to jump in and help me when I was talking to norcal after we took off. During our run-up, we failed to see a mag drop when we cycled the magnetos, and this turned out to be because we were running so rich that the magnetos switching to one didn't even make a difference. The plane we were in today is a little bit of an older one, and so not everything works quite as well as it should anymore. In particular, the throttle is incredibly sticky and twitchy. It was impossible to make actual precise changes on the throttle. My favorite plane that I've flown so far is 305RS, and it's not close.
+
+I need to rotate sooner on take-offs. I was frequently not rotating until the airspeed was nearly 70 kts, and the plane will take off something like 42. This is a bad habit, as doing it means that I am using up more runway than I need to. I also need to do a better job of picking a landmark for the 90 degree turn out of Palo Alto, rather than just trying to turn 90 degrees based on what feels right. I undershot the turn today and had to add a second left turn. Additionally, the crosswind leg is really short in most traffic patterns, because we use up a lot of the distance on the shallow turn. I am getting better at hands-off trim: trimming for an attitude and then letting the plane fly itself. However, once the plane is actually trimmed for hands-off flight, I need to then actually take my hands off the controls, otherwise I will inadvertently be moving the control surfaces. 
+
+The prhase "you have the controls" doesn't necessarily mean I actually have to touch the controls, just that I am responsible for the directionof the plane's flight. Next, on our way over to Watsonville, we practiced approach-to-land configuration and stalls. For an approach-to-land stall, one should only pitch down for a negative attitude after reaching the 1.3VS0 and with all of the flaps down. The entry is the same as for slow-flight. When we pitch down, the airplane will want to go right. I need more right rudder. During the recovery for the stall, when the airplane flops down from the stall attitude, the plane yaws badly to the left, and I need to add more rudder. During the entry, the crosshair stays at or above the horizon until the stall. During the recovery, I need more right rudder, and I need to stay at a level pitch until the flaps get to 10 degrees. The airspeed recovery needs to happen before I can start to climb. Additionally, I need to stay within +/- 10 degrees of the initial heading.
+
+Next up, we practiced pattern work. We went through the Watsonville left-traffic patter for runway 20 8 times, with 7 touch and goes. The first time, Andrew did it and I watched, and each time subsequently, I did it a little more autonomously. I needed a lot of help all 6 times, but by the last one, I was getting a lot better than on the first one. Something I should be better at is trimming hands-off during the pattern. This is hard as there's not a lot of time to do so. Also, I shouldn't rest my arm on the yoke, because that will turn the plane to the left. During the flares, I found myself trying to stretch my neck to see the horizon. I shouldn't do this, and instead shoule be content to not see anything in front of me. We slowed down from the normal 90kts for pattern work, to give ourselves a little more time on each leg. This is something I may do even when I'm more experienced. When we crab into the wind, we should do that with rudder, even when going left. When making the turn to final, the goal is to square that turn with the runway numbers. In general, I didn't want to pitch down as much as I needed to. On the final approach, I tended to be high and fast, and found myself needing to pull power to idle a couple times to lose altitude. When this happens, and we enter the sideslip, sometimes the plane is dragging, and so we need to add more power to get to the right spot.
 
 ## Flight 7: October 17, 2020
 
