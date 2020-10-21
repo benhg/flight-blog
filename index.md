@@ -8,6 +8,48 @@ At the end of each month, entries for that month will be moved to a new page for
 
 - [September 2020](sept-20.html)
 
+## Ground Instruction: October 20, 2020
+
+Today was all about instruments. We spent quite a while talking about the various instrumets, how they work, and why we use them. 
+
+The standard "six pack" of instruments (airspeed indicator, altimeter, vertical speed indicator, attitude indicator, heading indicator, turn coordinator) was standardized by the FAA in the late 60s. Since then, it has not changed much, other than the "turn and slip indicator," which has been replaced by the more modern turn coordinator (more on that later). Also present are several engine related instruments and a magnetic compass, as well as, in most modern planes, a GPS. The required equipment for flight, according to the FAA are summarized with the acronym GOOSECAT:
+```
+Gas Gauges
+Oil Temperature
+Oil Pressure
+Seatbelts
+ELT
+Compass
+Altimeter
+Airspeed Indicator
+Tachometer/Manifold pressure
+```
+
+### Pitot-Static Instruments
+
+Three of the instruments in the six pack are pitot-static: the altimeter, airspeed indicator, and vertical speed indicator. Broadly speaking, they are fed information from the pitot tube (which reads ram air pressure from ahead) and the static port (which measures static pressure). The "standard datum" for pressure is 29.92 inches of mercury (I know, it's a gross unit), and the standard for temperature is 15 degrees celsius. The standard lapse curve for pressure is one inch of mercury corresponds to 1000 feet of altitude, while the lapse curve for temperature is two degrees celsius per thousand feet. First up is the airspeed indicator. The airspeed indicator is actually the only of the three which uses both pitot and static measurements. The VSI and altimeter use only static pressure. The airspeed indicator has several important measurements on it. The white arc is the "flap operating range," which specifies airspeeds which are permissible with 30 degrees of flaps extended. The bottom of the white arc is the stall speed in landing configuration at maximum gross weight, and the white bar near that is the stall speed in the "specified configuration" with flaps retracted. The top of the green arc corresponds to Vno or the upper limit of normal cruising speed. The yellow arc can be flown in, but only in smooth air. The red line is Vne - never-exceed speed. There are four types of speed we care about: indicated, calibrated, true, and ground. Indicated is what the indicator reads, calibrated is angle-of-attack calibrated, true is corrected for altitude and air density, and groundspeed is corrected for wind.
+
+The altimeter uses the fact that static air pressure decreases as altitude increases to measure altitude. It is essentially a barometer, but is designed to be accurate in the way it displays altitude. The altimeter has a setting, which is set as often as possible, to stay current with the measured static pressure. ATC can always give you an updated altimeter setting, as well as ATIS/AWOS/ASOS. Your altimeter setting can be critical. Consider this example. You take off from Palo Alto, where the pressure setting is 30.00 inches of mercury. When you arrive at your destination, you believe you are cruising at 4500 feet, but without your knowledge, the ambient pressure has changed to 29.00 inches of mercury. This means that your indicated 4500 feet is actually indicating 1000 feet higher than it should, and you are actually only 3500 feet above sea level. This can be dangerous depending on terrain. This adjusted altitude is the one you use the most commonly. Pressure altitude is altitude which is uncorrected for the correct altimeter setting. Calibrated altitude is calibrated to deal with instrument error, and density altitude has to do with the temperature. We use an E-6B to calculate density altitude. The vertical speed indicator is essentially an altimeter, which is designed to have a "calibrated leak", which causes pressure to drain out of it at the right speed to show the rate of change of the altimeter. It desplays trend information, in respose to an immediate change, and rate information, after it stabilizes. There's an old saying in aviation: "Flyig high to low (pressure) or hot to cold (temperature), look below." There are some rules about how blockages at various points in the pitot static system affect the readings. If the pitot tube is partially blocked, then the airspeed indicator will simply idicate 0. If the pitot tube is completely blocked, the airspeed indicator will behave like an altimeter. If the static port is blocked, the VSI displays 0, while the Altimeter displays a constant value.
+
+### Gyroscopic Instruments
+
+The three gyroscopic instruments are somewhat simpler. They are the turn coordinator, the attitude indicator, and the heading indicator. They all work the same way. A gyroscope works on the concept of spatial rigidity - basically if a disk spins in a plane it resists change of direction out of that plane. Each of the three indicators use gyroscopes which are stable in one or more axes. They are also affected by the concept of precession, which is bascially an error that happens over time as a result of friction and other small forces on the gyroscopes. The turn coordinator also has a section which is purely gravity driven - an inclinometer, which helps measure the direction of effective gravity inside the plane, which is used to correct slip and skid in turns.
+
+### Magnetic Compass
+
+The magnetic compass sounds really simple. It's just a compass after all, right? Well, wrong. Okay, yes. The actual compass is pretty simple, but the compass errors are not so simple. The various compass errors are summarized by the acronym VDOMAN (VIDEO MAN):
+```
+Variation
+Deviation
+Oscillation
+
+Magnetic Dip
+Acceleration Error
+Northerly turning error
+``` 
+Variation is simply the difference betwee true north and magnetic north. Deviation is error on the compas due to electricity and magnetic materials inside the airplane. Oscillation is error caused by the fact that the compass is suspended in a fluid. Magnetic dip is the tendency for the compass to get less accurate as you go further north, because the compass needle is pulled down into the earth. This gets worse to the point that north of 60 degrees, the compass is somewhat unusable. Acceleration and northerly turning tendency are somewhat more complicated. Acceleration error is the tendency for the compass to spin right or left while experiencing a heavy acceleration on an e/w course, because the needle is perpindicular to the direction of acceleration. Finally, and most complicatedly, is northerly turning error. Essentially, the compass is attracted to the north pole and so the needle wants to stay pointing towards the north pole through the beginning of a turn. This results in the pilot needing to undershoot a turn (for a southward ending turn) or overshoot it (for a northward turn) by various amounts.
+
+
 ## Flight 8: October 18, 2020
 
 ### Ground
