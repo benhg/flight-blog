@@ -8,6 +8,113 @@ At the end of each month, entries for that month will be moved to a new page for
 
 - [September 2020](sept-20.html)
 
+## Flight 9: October 24, 2020
+
+Today we flew to Watsonville again to work on two things: Practicing emergency approaches to land (simulated engine failures) and more pattern work. We did ten landings this time (including the one at Palo Alto) and several of them I did 100% myself!
+
+### Ground, Pre-Flight
+
+During the pre-flight ground instruction we talked about emergency procedures annd about crosswind take-offs and landings. We also did a weather brief and all of the normal stuff, but because that is becoming routine, I will leave that out for today. For a cross-wind arrival, you follow the below procedure:
+
+```
+0. Listen to ATIS/ASOS/AWOS and determine crosswind component (this is vector math but we approximate like so:)
+	- 30 degree offset: 50% of total wind speed
+	- 45 degree offset: 60%
+	- 60 degree offset: 90%
+1. During downwind, base, final legs:
+	- Crab into wind as much as needed
+	- Wind at surface is not the same as wind aloft
+	- FAA only tracks wind aloft data starting at 3000ft MSL
+2. Final/Short Final
+	- Enter sideslip or crab airplane
+		- Crab method is only acceptible for light winds. In general, we should sideslip
+	- Have to enter crosscontrolled inputs
+		- Aileron into wind to deal with wind
+		- Opposite rudder to go straight
+	- Pitch for VASI
+	- Power for approach to land config, plane speed will take care of itself
+3. Cary power into flare
+	- Hold the sideslip 
+	- Power/pitch for VASI
+4. Touch down
+	- Hold nosewheel off ground
+	- Pitch up to slow plane
+	- Close throttle if not yet
+	- Full aileron into wind
+	- Steer with rudder
+	- Touch down on upwind wheel first
+5. Roll Out
+	- Aileron into wind
+	- May need to apply differential braking
+6. Taxi off
+	- Controls into wind
+```
+The take-off is very similar to a normal take-off, but also with aileron into wind and rudder as necessary.
+Next, we talked about emergency procedures, specifically for a simulated (or real) engine failure. Broadly  speaking, we repeatedly follow the A.B.C. acronym, which stands for Airspeed, Best place to land, Checklist. But there are variations  based on how high you are, and whether it is your first time through the acronym or not. In the following description, the numbers in parentheses are example altitudes.
+```
+A. (3500 ft) Airspeed: Set to best glide
+	- If faster, pitch up to convert energy to altitude
+	- If slower, pitch down (this is unlikely)
+B. Best place to land
+	- Goal is to do a normal approach to land from d/w abeam position
+		- cause this is what we are used to
+	- Quickly assess glide range (use ~10:1 glide ratio for easy math). Think about wind but don't waste time doing math
+	- Mainntain situational awareness
+	- May need to select off-field location
+		- Be aware of surroundings
+	- Point airplane at landing location. Orbit left absent over needs.
+		- If the position is rising, you're not going to make it
+		- Orbit left because you sit on the left side of the cockpit
+C. Checklist/Flow Check
+	- The cause of an engine failure is almost always fuel flow or ignition
+	- Perform "The seven" from memory:
+		- Fuel flow-both
+		- Jockey mixture to find a combusting mixture and check mixture knob
+		- Jockey throttle
+		- Fuel pump on
+		- Cycle Magnetos
+		- Keep master on
+A. (2500 ft)
+	- Check airspeed again, maybe adjus trim
+B. Continue to assess best place to land
+	- Calculate TPA window (1000ft AGL -200 + 500)
+	- If close to window, try to get to d/w abeam before flying more orbits
+C. Checklist: 
+	- This time, we can actually read the checklist. Add on: Mayday + Squawk 7700
+	- 3x Mayday commannds radio silemce
+	- Tell your radio:
+		- Who you are
+		- Where you are
+		- Altitude
+		- Assistance Needed
+		- How many people onboard
+A. (500 ft AGL)
+	- Same as before
+B. You are now committed. You only have one or one half orbit left. 
+	- Jugde glide
+	- Enter d/w
+	- If at top of window, make a wider turn. If at bottom, tighter.
+C. Checklist
+	- Check flow (the 7)
+	- Securing engine checklist
+	- Turn everything off
+	- Open door
+	- Headset in door jamb
+	- Master off after flaps down and radio comms
+```
+
+
+### Flight
+
+We did the pre-flight procedure and noticed a few small things. A couple of 1/4 turn fasteners were missing on the cowl of the plane and the attitude indicator was reporting that it was inoperative. None of that was going to stop us from flying, but we made a mental note to squawk it. I did a lot better at the ground radio chatter and the taxi/run-up, and even did pretty well on the take off. I yet again didn't turn a proper 90 degrees upon reaching 500 ft AGL, and I also apparently used the left rudder to turn ??????? I have no idea why I did that, but it's something to work on. As we moved to the downwind leg, I handled talking to NorCal pretty well, for the first time. However, after we were cleared to proceed on our own and go towards Lexington, and we needed to talk on the radio again, it was apparent that our ATC person was incredibly busy and didn't have time to really help. I was too busy trying to repeat everything he said to us and waited about 2 seconds. In the meantime, he was asking me whether I had heard him (which is ATC speak for "hey dude you're wasting my time") and Andrew answered for me. In the future, I now know I don't necessarily need to repeat everything. In this case, all I had to do was say "Altitude our discretion, squawk VFR, frequency change approved."
+
+Additionally, on the way out to Watsonville, we cruised faster than 90kts, and worked on trimming at faster speeds. I tend to climb more than I should, basically all the time, whether it's in the pattern, during turns, or elsewhere. We talked about how if trim is close to what it should be, then it is easier to make small power adjustments to fix the trim, rather than trying to micromanage the trim.
+
+Next, as we were about 10 miles from Watsonville, we practiced our emergency procedures. Andrew helped coach me through it but I had the controls the whole time. We got through 3x ABCs, but we started from 3.5k altitude, and probably should have gotten through four.
+
+After that, we went to WVI to work on my pattern work. I had the controls for the first landing, which was mostly right, but a little clunky especially at the end. After that, we did one more, which was also not great (I tended to hang up the plane a bit and was late making the power reduction.) It was also hard to learn to deal with 66085's extremely sticky and irritating throttle. Because of it, I tended to not make my control inputs at the right time. I also didn't pull the plane gently enough innto the flare. After that, we did a full-stop landing and worked on the high-speed taxi to practice the flare without needing to do the takeoff and the circle around. Remember: If you see the runway, you are doing it wrong. During the high-speed taxi, I worked on using smaller control inputs on the rudder pedals. After that, we did several more landings. Several of them actually felt really good! A few were a little hard, but three or so were super super soft. A couple final notes: more nose-up in x-wind turn. Be better at trimming in the traffic pattern. We want hands-off trim even in the pattern. Build my confidence. I know this stuff (Andrew says so too) but I need to be more confident with the plane.
+
+
 ## Ground Instruction: October 20, 2020
 
 Today was all about instruments. We spent quite a while talking about the various instrumets, how they work, and why we use them. 
