@@ -9,6 +9,16 @@ At the end of each month, entries for that month will be moved to a new page for
 - [September 2020](sept-20.html)
 - [October 2020](oct-20.html)
 
+## Flight 12: November 15, 2020
+
+Today was a fun flight as it was my first time flying with an instructor other than Andrew. I flew with Andrew's friend and "surrogate" Steve Philipson. Steve has an interesting background in physics and computer science, and has published work on mountain waves, in academic aeronautical contexts. He's an incredibly smart and super interesting person. We got along well..
+
+We started out with a right-dumbarton departure over towards Leslie Salt, where the plan was to work on ground reference maneuvers. There wasn't too much wind over there, but there was just enough for the differences in the various parts of each maneuver to be meaningful. We started with the rectangular course, where I always tended to drift to the inside of the course. Also, I tended to be too slow at rolling into turns. Next up were turns around a point, which I was better at, though I still tended to drift inwards. Finally, we spent some time doing S-turns over roads, where I tended to make a few mistakes. The most common one was being a little sluggish to turn, which meant I needed to then make very steep turns to correct. That's not too much of a problem, but we ideally wanted to make the S-turns nice and symmetric.
+
+After that, we headed over to Watsonville to do patternwork. We did seven landings, all of which felt pretty solid. The first one especially was very smooth. I am getting better at making stable approaches to land, and as we always know, a stable landing follows a stable approach. Additionally, thoughout the whole flight, I spent a lot of time working on trim technique, which is a developing skill of mine.
+
+I have a feeling that the blog posts from the next few flights will be pretty short, as I will mostly be spending time practicing things I already know and really honing my skills.
+
 ## Flight 11: 11/5/2020
 
 ### Pre-flight
