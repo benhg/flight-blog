@@ -10,6 +10,23 @@ At the end of each month, entries for that month will be moved to a new page for
 - [October 2020](oct-20.html)
 - [November 2020](nov-20.html)
 
+ ## Flight 16KPAO, December 19, 2020
+
+ I had another day of "well you should have soloed, but...". Unfortunately, this time it was a thousand percent my own fault. I left my blue folder containing all of my flying paperwork at home, and because it included the 3rd class medical certificate, that meant I could not legally solo. It's a real shame too, as after a messy first two times around the pattern, I was totally ready to go. This entry will also be short, because I am exhausted.
+
+### Flight
+
+We started at a quick pace (in theory, to give me more solo time, sadface). When we walked out to the airplane, it wasn't there! After being confused for a minute, we walked to the maintenance hangar and found it, with a new door lock and a working hobbs meter (sad face). We did a quick pre-flight, and I made a new mistake. After noticing that the fuel gauges weren't quite true, I neglected the rest of the final walk-around and forgot to close the oil door. That was stupid. Luckily, it is pretty easy to fix.
+
+Considering that I am getting close to (should have been done already) my first solo, today was an autonomy study. My autonomy is significantly better than it ever has been. I was able to handle the takeoff transition over to NorCal pretty well. Additionally, on takeoff, the PAO controllers asked us to do some things different from usual, and I dealt with that just fine. Andrew says I need to trust myself more, and that not thinking twice about everything I do will free up my brain to focus on other tasks.
+
+During the cruise over, we practiced leaning the airplane, and GPS and VOR navigation using the GPS (duh) and the Salinas VOR. We headed over Lexington reservoir to the shoreline and then hung a left towards Watsonville. During this, I practiced calculating when to descend, in order to reach the 45 at TPA, 3 miles out. The calculation is as follows: $$(necessary loss of altitude) / (rate of descent) * (ground speed in kts/min) + 3 mi$$. Ground speed in kts/min, is just $$(ground speed in kts/hr / 60 (min/hr))$$. 
+
+In the pattern at Watsonville, the first two times around were pretty rough. I definitely wouldn't have killed anyone if I'd done them alone, but they were pretty sloppy. After that, I did significantly better, and I'd even call some of them "good". I made a few common errors today, which I will outline here. I tended to be late on the flaps, or forget to do them entirely. I managed to mostly sort out this problem by the end of the day. I also tended to under-deploy flaps, as the detents are not properly calibrated in this airplane. I also tended to flare early, and then relax backpressure, which can lead to nosewheel hits. I actually had one nosewheel landing, but it was very very slight, luckily. I will chalk that up as a close call and not make that mistake again. 
+
+After that, we headed over to San Martin, where we did two more trips around the pattern, plus one simulated emergency. During the simulated emergency, Andrew and I discussed how even if the airport has a right traffic pattern, in an emergency, we can still orbit to the left as it affords us better visibility. Once we declare an emergency, traffic will get out of our way. We finished the simulated engine failure with a power-off approach, which went pretty well. I managed to reach the runway and perform a normal landing. I need to remember that the orbits are essentially a very large turn around a point, and I need to do better at thinking about the required changes in bank angle to do so. There is still a lot of work to be done on the emergencies, but that was a good milestone. Finally, as we made two straight-in landings, we discussed the 3-2-1 1-2-3 rule. At 3 miles out, you should be at TPA and put flaps 10. At 2 miles out, flaps 20, and at 1 mile out, flaps 30. That yields a nice normal approach to land.  
+
+There is good news, even though I would say I did significantly better last weekend. That is the following: My glide judgement is getting much better, as evidenced by the simulated engine failure. Even my sloppiest landings still wouldn't have damaged the airplane or killed anyone. My flare technique is getting better. And finally, I am usually able to correct my mistakes without any help.
 
 ## Flight 15: December 13, 2020
 
