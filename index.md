@@ -10,7 +10,11 @@ At the end of each month, entries for that month will be moved to a new page for
 - [October 2020](oct-20.html)
 - [November 2020](nov-20.html)
 
- ## Flight 16KPAO, December 19, 2020
+## Flight 17, Deceber 20, 2020
+
+I soloed. No further notes.
+
+ ## Flight 16, December 19, 2020
 
  I had another day of "well you should have soloed, but...". Unfortunately, this time it was a thousand percent my own fault. I left my blue folder containing all of my flying paperwork at home, and because it included the 3rd class medical certificate, that meant I could not legally solo. It's a real shame too, as after a messy first two times around the pattern, I was totally ready to go. This entry will also be short, because I am exhausted.
 
