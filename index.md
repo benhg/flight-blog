@@ -11,8 +11,21 @@ At the end of each month, entries for that month will be moved to a new page for
 - [November 2020](nov-20.html)
 - [December 2020](dec-20.html)
 
+## Flight 19: January 16, 2020
 
-## PPL Flight 18: January 10, 2020
+Due to resource (airplane) scheduling constraints, we were only able to sneak in a quick flight this morning. Because of that, we abandoned the idea of going to Watsonville, and instead took our talents to Hayward (my first time flying there).
+
+### Flight
+
+This weekend's flight went significantly better than last week's, possibly just because last week I was a bit out of practice, while this week, I had only six days off. My roll-outs were all much much better than they were last week. Something I was thinking about was how to do the "whoa horsie" movement better. The way to do it is flare, put down the nose, then slow down with brake and pull up just a bit, in order to not yank the airplane back off the ground. Having had that on my mind the whole last week, i was better able to handle the airplane.
+
+The Hayward pattern is a little strange - it's only 650 feet AGL. This means that instead of throttling back with the flaps abeam the numbers, we need to throttle back late, about as we enter the turn base. It also means we have to do everything a bit quicker. It was good to go somewhere new this time.
+
+My biggest issue was the open feedback loop. The idea being when we do something, we wait for it to take effect, and then observe whether it achieved what we wanted it to. If it did, we don't need to take further action. If it didn't, we repeat the process. Just doing the procedure only gets us into the right ballpark. Another philosophical issue is the decisions about power reductions. Steve's methodology is to make only two power reductions (once for the initial descent, and then again after the runway is made, pull power to idle). Andrew's methodology is to fix the point where you make the flap changes and use power to micromanage the altitude on base/final. It's interesting to try it both ways.
+
+Now, onto the mechanical issues. I tended to drop the right wing during the climb rather than applying a little bit of right rudder. Also (and 4660G has a worse tendency than others in this regard), I actually need to hold a lot of right rudder during the left turns through the pattern (especially the turn crosswind). I am still making the same mistake about trim (holding too much pressure, then letting go in order to test) that I usually do. Finally, I tend to not trust my trim setting on final and pull back, despite the fact that I need to be going a bit faster. Also, I need to do better at judging the turn-in point for turning final. During the round out and flare, I need to do a better job of studying the drift and correcting during the flare rather than after it. In general, I need to make smaller and gentler inputs regardless of what those inputs are. Finally, I just need to relax and slow down my brain. I can keep up with things enough that I really don't need to rush myself, if I could just relax.
+
+## Flight 18: January 10, 2020
 
 After the first-solo debacle and then a COVID scare (had a negative test, so I am mostly out of the woods), I ended up unfortunately taking three weeks off from flying. Honestly, I was a little apprehensive coming back into it today. Also, because of some scheduling issues, I flew with Steve Philipson again. I find that his style is almost equally conducive to learning as Andrew's, though it is very different.
 
