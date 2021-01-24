@@ -11,6 +11,20 @@ At the end of each month, entries for that month will be moved to a new page for
 - [November 2020](nov-20.html)
 - [December 2020](dec-20.html)
 
+## Flight 20: January 24, 2020
+
+Had another successful flight (third of three in a row with Steve). A cold front rolled in overnight, along with some rain in the early morning (had dried up before we did anything). We also saw some mountain wave on the radar imaging, which was pretty cool to see. We had low altitude stratus clouds (2000 ft ceiling) and some nimbuses higher up. Lots of mountain obscuration (couldn't see the ridges between PAO and Watsonville at all). 
+
+## Flight
+
+This weather would have been prohibitively bad for me to fly alone in, even if I had my license. Visibility was okay, but the cieling at 2000 ft is not great. We decided to go to KRHV, with the intention being patternwork. Headed that way after a straight-out from runway 13 at PAO, directly into Moffet's airspace. After staying off their runways, we passed over San Jose, and straight in to Reid Hillview.
+
+On our way in, they were using Runways 13L/R. We expected to be entering downwind for 31, so we weren't really in the right place. The tower told us to turn base and final for 13, which caught us off guard. We ended up going around. I slightly fucked up the go-around, but caught myself quick enough that we didn't fall out of the sky and die. 
+
+After one more landing, they had us do a full-stop, and let us do a 180 on the runway to flip the pattern around, with the pattern switching to right-traffic 31R/Left-traffic 31L. We did several landings on 31L, before the controller gave us a chance to try out 31R for a while. None of them were unsafe, and a couple of them were very good. It was reassuring to be able to actually relax while flying. My rectangular course felt much better than usual. Looking back on the track logs, they were indeed more symmetric than usual, but also there was some significant variation in width.
+
+Steve says my biggest problem by far is confidence. If I had more confidence in the things I was doing, I would be able to make the right decisions more quickly most of the time. We also had a tailwind on short final quite a few times, which made our landings much longer than we expect them to be. We also talked about my tendency to overcontrol in the flare and round-out. As a strategy I will use a 1 degree discrete step to help me move towards a continuous process of arrest/round-out/flare. I was doing better about the closed loop this time. Looking forward to flying with Andrew and seeing what he has to say about my progress.
+
 ## Flight 19: January 16, 2020
 
 Due to resource (airplane) scheduling constraints, we were only able to sneak in a quick flight this morning. Because of that, we abandoned the idea of going to Watsonville, and instead took our talents to Hayward (my first time flying there).
