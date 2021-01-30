@@ -11,6 +11,18 @@ At the end of each month, entries for that month will be moved to a new page for
 - [November 2020](nov-20.html)
 - [December 2020](dec-20.html)
 
+## Flight 21: January 30, 2021
+
+First flight with Andrew in quite a while. Overall quite a good flight. The differences between Steve and Andrew are pretty funny. Each says the other is obsessively perfectionist, while in reality both of them are. Steve is significantly more perfectionist about the weather, while Andrew is about some other things.
+
+From working with Steve and resulting conversations between the two of them, we worked out a couple of issues. First and foremost, the issue is confidence. It's just going to take some mental effort on my part in order to build up my confidence. We also talked about open loop/closed loop, and being able to relax such as not to rush myself.
+
+With that in mind, we decided to head over to San Martin/South County to do some patternwork at an airport I haven't been to in a while, and do some maneuvering on the way there. We practiced slow flight and power-off stalls, and did an emergency. During the emergency, I orbited to the right instead of the left, and was too late on the flaps to actually be able to make the intended landing spot. I also went a little slower than best glide because I overdid the trim. Had I committed to flaps earlier,  we would have hit the intended field fine.
+
+After that, we moved on to patternwork at San Martin. The pattern was much better, especially my rectangular course. Most of the approaches were quite stable, which I was happy with. The round outs were also pretty solid, but because I made power reductions early on some of them, I came down a little hard a couple of the times. Also, we did a lot of work on the roll-out and slow-down. I need quite a bit more practice with that, but everything is always safe, which is good.
+
+More details after tomorrow, when we have another flight scheduled.
+
 ## Flight 20: January 24, 2020
 
 Had another successful flight (third of three in a row with Steve). A cold front rolled in overnight, along with some rain in the early morning (had dried up before we did anything). We also saw some mountain wave on the radar imaging, which was pretty cool to see. We had low altitude stratus clouds (2000 ft ceiling) and some nimbuses higher up. Lots of mountain obscuration (couldn't see the ridges between PAO and Watsonville at all). 
