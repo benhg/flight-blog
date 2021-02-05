@@ -1,4 +1,4 @@
-# January, 2020
+# January 2020
 
 ## Flight 22: January 31, 2021
 Another flight from the same weekend. This one had mixed results. Some good things, some not so good. I honestly think once a week might work better for me, mentally speaking. Giving myself time to process the first flight before doing another one does more good than harm, I believe.
