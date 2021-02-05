@@ -11,6 +11,51 @@ At the end of each month, entries for that month will be moved to a new page for
 - [November 2020](nov-20.html)
 - [December 2020](dec-20.html)
 
+## Flight 22: January 31, 2021
+Another flight from the same weekend. This one had mixed results. Some good things, some not so good. I honestly think once a week might work better for me, mentally speaking. Giving myself time to process the first flight before doing another one does more good than harm, I believe.
+Like I said, some things went really well, and other things not so much. We spent quite a long time on the ground talking about short-field approaches (section describing all of this below, after the prose). After that, we did our weather brief, and set off towards Watsonville.
+On the way over, we got the rare treat of working with Sam, who is by far the best air traffic controller in the Bay Area. We're big fans of his. He has a way of getting everyone exactly the information they need and he shares it all in exactly the right way. It was funny how obvious it was that he was good at his job.
+After passing over the hills, we went North and West over some farmland, and practiced an emergency. I did an overall excellent job. I converted the airspeed we had left over from the cruise into 250 extra feet of altitude, remembered the ABCs, used the checklist, and was able to do the check-flow from memory. I also judged the winds correctly and had reasonably good glide judgement. I got the airplane down mostly on the "runway" I wanted to. We did our go-around and that was definitely my best yet simulated emergency. After that, we did another emergency on the way to Watsonville, over MBA, where we assumed our engine failed at 1500 ft, the top of the TPA window. So we only had time to do the securing checklist, which we did pretty well. However, I was a bit too close on the downwind spacing, and so was a bit high on final. It's better to err wide than narrow, because you can always turn base (and final) early, but it's hard to do the opposite.
+Finally, we moved on to patternwork. I was feeling a bit behind the airplane the entire time. The patterns were a little non-symmetric, because there were healthy crosswinds aloft, and I wasn't able to correct for them as much as necessary. We ended up doing seven, a couple of which were demonstrations of short-field landings, and one of which was a power-off. I need to keep working on my energy management and specifically be more proactive about adding flaps as necessary. On some landings, I get too slow, and sometimes even hear the stall horn above ground effect. When this happens, I need to add a little power and pitch down. If possible, I should just keep the speed as it should be in the first place. 
+
+### Discussion of short-field landing technique:
+
+Before we do a short-field landing, we have to ask ourselves (or the instructor/examiner) four questions:
+- Why is the landing short?
+	- Are there obstacles which render the useful length of the runway shorter?
+	- Or is the runway just short?
+- Will we need to turn base early?
+	- If there is a person with us, will they call our base?
+- Where is the touchdown zone?
+	- The PTS are that we have to touch down within 200 feet of the specified point.
+- Do we retract the flaps during the roll-out?
+	- Depends on a lot. If we’re doing it right, the flaps will only help us and not hurt us.
+With those questions in mind, and answered, these are the steps we will follow:
+0. Configure for 90kts or slower as usual. Pitch and trim for level.
+	- If the TPA is lower than usual, we have to be closer than usual.
+1. Perform a noral approach until turning base.
+2. Turn base at or before being on a 45 degree angle with the base.
+	- May beed to follow a different VASI based on the obstacle. Be prepared to see red/red as you will be “below” the intended VASI to touch down short.
+3. By the time we are on final, we usually need 30 degrees of flaps./
+	- We also probably will need to carry power down to the runway.
+	- We need to ask ourselves if we need extra power to get to the runway.
+	- If at any point we pull the power idle, we will need to pitch for the 1.3 speed. We want to be on the lower end of the v1.3+10-5 window.
+	- If we turned at the right time, assuming we will clear the obstacle, we just pitch for the 1.3 speed.
+	- We aim to clear the obstacle with 50 feet of space, if applicable.
+4. On final, we adjust  our ground speed to match the target touchdown zone.
+	- Hold the 1.3 speed until in ground effect
+	- If we heart the stall horn, too slow.
+	- Add power and pitch down for as necessary.
+	- As we are ready to flare, check the vertical speed. Add power and pitch down to soften the descent if necessary.
+5. When touching down, rotate into full-stall attidude.
+	- Brake heavier than usual.
+	- Make sure the power is fully pulled out.
+	- If the airplane floats, there is too much airspeed.
+	- Hold the full-stall attitude.
+  
+N.B. regarding Flaps:
+The Cessna POH says to retract flaps during the roll-out. If you land with too much airspeed, this is necessary, because the airplane has a higher stall speed with no flaps. If the airplane was landed at the correct speed, the increased drag from the flaps will help us.
+
 ## Flight 21: January 30, 2021
 
 First flight with Andrew in quite a while. Overall quite a good flight. The differences between Steve and Andrew are pretty funny. Each says the other is obsessively perfectionist, while in reality both of them are. Steve is significantly more perfectionist about the weather, while Andrew is about some other things.
