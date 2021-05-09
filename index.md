@@ -14,6 +14,43 @@ At the end of each month, entries for that month will be moved to a new page for
 - [February 2021](feb-21.html)
 - [March 2021](mar-21.html)
 
+
+## Flight 33: April 24, 2021
+
+Good, long flight today. My return to upper-air maneuvers after a whole lot of patternwork. We headed over to the Coyote valley to do some work before heading over to Reid-Hillview to do patternwork, including an abbreviated solo. We did power-off stalls, power-on stalls, slow flight, turns around a point, and a simulated emergency. My emergency was fine. The procedure was done correctly and the glide judgement was okay, but my field selection was not ideal. After that we headed over to RHV, where I did some patternwork and then a quick solo. But it wasn't actually a quick solo, because I was number 12 or so for departure, after an approximately 30 minute delay. After landing, Andrew mentioned that he had to do a lubrication flight around SLAC in a skywagon, so he took me along. What an experience. That plane has so much power and the tailwheel nature is really cool. Andrew showed me some cool tailwheel landings in heavy crosswinds
+
+## Palo Alto Solo: April 23, 2021
+
+Went to the airport early to try and get in some patternwork at Palo Alto by myself. The flight did not go as planned, but was a success nonetheless. The pattern was super crowded so my two landings were good practices in terms of PAO patternwork and in terms of not being number 1 to land. I was number 3 and 4. I decided to cut the flight short after I heard at least three other people joining the pattern, and I was just not really ready to keep going. 
+
+## Ground instruction: April 21, 2021
+
+This ground, we talked about regulations and aeronautical decision making. ADM is something that came up early in my studies but is intentionally sort of de-emphasized until post-solo, so that the student has an appreciation for how important and critical making such decisions can be. In terms of regulations, I went through my AIM and put tabs at all of the important points. 
+We also talked about reporting incidents/accidents. There's a little "flow chart" of questions you have to ask:
+- Is anybody dead?
+- Has there been serious injury? One requiring:
+	- Hospitalization for 48 hours within 7 day period
+	- A broken bone other than a toe, finger, or nose	
+	- Hemmoraghing or damage to an internal organ
+	- Second or third degree burns over the at least 5% of the body
+- Has there been substantial damage on an airplane:
+	- The definition of "substantial damage" is very specific.
+If the answer to any of these questions is "yes", then there has been an "accident". If there's an accident, I should call the NTSB and file a report within 10 days.
+An "incident" is classified as one of the following:
+- Flight control system malfunction
+- Crew member becoming incapacitated
+- Turbine structural failure (not likely to happen to me in a piston engine airplane)
+- In-flight fire, including electrical fire
+- Crash
+- Property damage over $25,000
+- Aircraft overdue of a flight plan
+If this happens, you should file a report in the NASA ASRS, and file a report when they ask you to, if they do.
+
+
+## Flight 32: April 17, 2021
+
+We meant to go to Watsonville, first together and then after that by myself. Unfortunately, neither weather nor aircraft scheduling permitted such a thing. Instead, I did a semi-supervised solo flight at Palo Alto. I headed out to the ramp, started the airplane, taxied to the runway, and did the patternwork all on my own while Andrew watched. Not much to say about this one, other than that it went well.
+
 ## Flight 31/something a bit new: April 10, 2021
 
 So, what I was intending to do last weekend finally happened this weekend. I was able to take an airplane from one airport to another by myself with nobody else in the airplane. And honestly it was easier than I thought it would be.
