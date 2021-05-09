@@ -1,0 +1,55 @@
+# April 2021
+
+## Flight 33: April 24, 2021
+
+Good, long flight today. My return to upper-air maneuvers after a whole lot of patternwork. We headed over to the Coyote valley to do some work before heading over to Reid-Hillview to do patternwork, including an abbreviated solo. We did power-off stalls, power-on stalls, slow flight, turns around a point, and a simulated emergency. My emergency was fine. The procedure was done correctly and the glide judgement was okay, but my field selection was not ideal. After that we headed over to RHV, where I did some patternwork and then a quick solo. But it wasn't actually a quick solo, because I was number 12 or so for departure, after an approximately 30 minute delay. After landing, Andrew mentioned that he had to do a lubrication flight around SLAC in a skywagon, so he took me along. What an experience. That plane has so much power and the tailwheel nature is really cool. Andrew showed me some cool tailwheel landings in heavy crosswinds
+
+## Palo Alto Solo: April 23, 2021
+
+Went to the airport early to try and get in some patternwork at Palo Alto by myself. The flight did not go as planned, but was a success nonetheless. The pattern was super crowded so my two landings were good practices in terms of PAO patternwork and in terms of not being number 1 to land. I was number 3 and 4. I decided to cut the flight short after I heard at least three other people joining the pattern, and I was just not really ready to keep going. 
+
+## Ground instruction: April 21, 2021
+
+This ground, we talked about regulations and aeronautical decision making. ADM is something that came up early in my studies but is intentionally sort of de-emphasized until post-solo, so that the student has an appreciation for how important and critical making such decisions can be. In terms of regulations, I went through my AIM and put tabs at all of the important points. 
+We also talked about reporting incidents/accidents. There's a little "flow chart" of questions you have to ask:
+- Is anybody dead?
+- Has there been serious injury? One requiring:
+	- Hospitalization for 48 hours within 7 day period
+	- A broken bone other than a toe, finger, or nose	
+	- Hemmoraghing or damage to an internal organ
+	- Second or third degree burns over the at least 5% of the body
+- Has there been substantial damage on an airplane:
+	- The definition of "substantial damage" is very specific.
+If the answer to any of these questions is "yes", then there has been an "accident". If there's an accident, I should call the NTSB and file a report within 10 days.
+An "incident" is classified as one of the following:
+- Flight control system malfunction
+- Crew member becoming incapacitated
+- Turbine structural failure (not likely to happen to me in a piston engine airplane)
+- In-flight fire, including electrical fire
+- Crash
+- Property damage over $25,000
+- Aircraft overdue of a flight plan
+If this happens, you should file a report in the NASA ASRS, and file a report when they ask you to, if they do.
+
+
+## Flight 32: April 17, 2021
+
+We meant to go to Watsonville, first together and then after that by myself. Unfortunately, neither weather nor aircraft scheduling permitted such a thing. Instead, I did a semi-supervised solo flight at Palo Alto. I headed out to the ramp, started the airplane, taxied to the runway, and did the patternwork all on my own while Andrew watched. Not much to say about this one, other than that it went well.
+
+## Flight 31/something a bit new: April 10, 2021
+
+So, what I was intending to do last weekend finally happened this weekend. I was able to take an airplane from one airport to another by myself with nobody else in the airplane. And honestly it was easier than I thought it would be.
+
+Pretty simple goal today. Andrew and I met early to try and get ahead of the winds. We headed down to E16 for a supervised solo, because always good to do a supervised solo before going somewhere solo for the first time. I'm glad Andrew was with me that first time, because we got some funky instructions from a controller on the way over. I've linked the flightaware report (here)[https://flightaware.com/live/flight/N305RS/history/20210410/1610Z/KPAO/KPAO] because it's pretty funny looking. Apparently 2500 ft is high enough that we needed to turn back for a bit because of traffic at 6000 ft headed into KSJC. But whatever. We did it and it just cost us a couple of minutes. Then, we headed into E16, where I did some landings with Andrew (3 to be specific). All of them were quite good, even though the pattern got upset by me being distracted on one of them. The airport suddenly got very busy. It's funny how quickly you go from being the only person in the pattern to being one of twelve people waiting to use the runway. Combine that with the fact that the wind was kind of ambiguous and some people wanted to use rwy 14 vs 32 (specifically an embraer phenom which was going to need to use the full length even with calm winds). Combine that with some people who were confused in the pattern and going the wrong way, and it was pretty weird there for a second. I was on the upwind for 32 (after a lot of discussion on the radio about how we're all going to use 32), and came way too close for comfort to an airplane entering on the crosswind leg at 700 ft. That was a moment of tension. But I was able to turn away from them and climb to 1300 (which is actually TPA.). All of those landings ended up being good too. One of them was a little long, but I think that's mostly because the wind was dead calm as opposed to the normal slight headwind I'm used to. 
+
+Then, we headed back to Palo Alto, and I was able to pretty much fly with no help from Andrew - I had a couple of questions about airspace and whatnot but none of it was actually relevant to that moment of flying. We landed, topped off the fuel tanks, and I turned around and did it again totally solo. That was a pretty weird and cool feeling. Winds were great, air was calm, and there were no clouds which were at all close to me. I didn't even need to say "student pilot" on the radio to any of the controllers. The hardest part of the flight was figuring out when exactly to leave E16 on the way back because there was a big traffic jam of people in the run up area (some listening to the frequency others not so much). I headed back and did a nice landing with about 4 knots of xwind at Palo Alto. I actually also took a couple of pictures. I will figure out how to attach some here later.
+
+## Flight 30: April 3, 2020
+A pretty frustrating day in some ways, and a very good one in other ways. Today, I was meant to be practicing for a solo trip to San Martin tomorrow morning, but the weather just didn't want to cooperate. Luckily, that wasn't the end of the productivity of the lesson. We were able to get a lot of valuable experience out of it for me, especially with crosswinds. Crosswind practice is something I desparately need more work on, so that's good too. I really feel like my rectangular course has come quite a long way from when I was having so much trouble with it. It's becoming second nature to me which turns need to be steep and which need to be shallow. And the navigation and radio communications are pretty good.
+
+But, on the other hand, I was hoping to solo today, after getting over to San Martin with minimal involvement from Andrew, and that didn't quite happen the way we wanted it to. On the way out of Palo Alto, things were mostly going pretty well. There were some small crosswinds on the takeoff but I think I handled them okay, and I was okay at talking to the tower myself. Switched over to Norcal, did fine on the radio, and planned to head out towards Pruneyard and then San Martin. There was a traffic conflict, which put me off a little, but I was able to deal with it okay. Then, because there were lots of clouds at 2500-3500 ft, we couldn't quite see exactly where we were going. So we decided to program it into the GPS. In general, especially when I'm alone, I'll plan to program the GPS when I'm on the ground in the future. If I don't need to look at it, great. If I do need to look at it, it's good to have it programmed before I need it rather than when I need it. We were below the capping stable layer with the cumulus clouds today, so there was a lot of light turbulence. That plus up and downdrafts made it a bit harder to fly the plane and program the GPS all together. 
+
+We got to San Martin, and there were two other traffic conflicts on the way there. One of them happened when we were abeam anderson spillway, and there was another airplane overtaking us. Norcal helped us stay out of their way, and then I made a mistake by turning left towards them which would have given me not enough space and time. So upon Andrew's suggestion, I made a right 270 to turn the long way around to the left, allowing them to clear and give myself enough space. Then, as we were entering the pattern, I didn't sit over the hills enough and that didn't give me enough space to get on the 45. Instead, I entered on more of a 60 degree angle, and as murphy's law dictates, there was traffic entering on the downwind leg. I turned around and tried it again. That one was pretty concerning. I'm glad Andrew was with me for that. Then, I headed in for some patternwork, and there were some crosswinds (probably 5-6 knots or so). The first approach was totally unstable, so I aborted it and went around. The second one was better, but I didn't hold in the crosswind inputs very well, so it didn't end up working out to be perfect. Andrew had to help on the third one. After that, it was clear that we weren't going to be able to solo me today, as the winds just weren't cooperating. So we went over to Hollister to experience real strong crosswinds. We landed on 13/31 (the 31 side) where there were 10-12 knots of crosswind. With the long runway and the lots of crosswind, I was able to practice holding the inputs with full rudder and some aileron to complement it. The first few times were rough, but after a while I really started to get it. We headed back to Palo Alto (where there were also 10 kt crosswinds) to try the same thing on a harder runway. The first time (on the straight-in), I got a little unsettled and ended up going around. After that, I made a small mistake of starting the descent before final after being extended (though I didn't descend enough that it was dangerous), and was able to do a good job with the crosswind inputs and land pretty smoothly. I also did a good job on the radio on the way back from Hollister to Palo Alto.  
+
+## Ground Instruction: April 1, 2020
+We talked about weather products. Instead of typing up my notes, I'm going to link Andrew's summary sheet from his page because it's mostly a better version of my handwritten notes. We also talked about checkride oral and written prep. I plan to take the written test before the end of the month. [Summary Page](https://flyskyhoppers.com/materials/IFR_weather_briefing.pdf)
