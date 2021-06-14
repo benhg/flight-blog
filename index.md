@@ -15,6 +15,10 @@ At the end of each month, entries for that month will be moved to a new page for
 - [March 2021](mar-21.html)
 - [April 2021](apr-21.html)
 
+## Quick Solo: May 18, 2021
+
+Not too much to say about this one. Took off from RHV and headed over through the east bay over to palo alto, before doing some patternwork there and heading back to RHV via the south bay and the SJC transition, where we make a downwind departure as if we are going to E16, then head over the anderson spillway and enter straight in to RHV. Was a good experience. Unfortunately, didn't have any time to do airwork along the way. Good experience though.
+
 ## Flight 34: May 15, 2021
 
 Another good flight, lots of new things going on lately. This time, the big thing that's new is the beginning of my minimal private pilot instrument flight training. Basically, Andrew puts me behind "the hood" (which is  a pair of partially blurred out glasses), which simulates being stuck in IMC where you can't see out of the airplane. The method of flying we learn is called attitude instrument flying. There're a lot of very specific types of things you need to do with them. Some examples ofnum this are very specific rules about how to look at the instruments - these are called "scans", and sprcific types of clearances you need to enter IMC. That's all part of actual instrument rating training, which I'll do eventually at some point. But for now, I'm just learning the very very basics to use in case of an emergency.
