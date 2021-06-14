@@ -15,6 +15,63 @@ At the end of each month, entries for that month will be moved to a new page for
 - [March 2021](mar-21.html)
 - [April 2021](apr-21.html)
 
+## Flight 35: May 23, 2021
+
+Very similar flight to number 34. Lots of instrument time (relative to a normal VFR flight that is). Went well, did similar stuff but headed to Watsonville instead of Reid. The new theory stuff we worked on was just unutual attitudes.
+
+Unusual attitudes:
+
+An unusual attitude has one or more of the following: 
+	- Nose up steeper than 7.5 degrees
+	- Nose down steeper than 2.5 degrees
+	- Bank over 20 degrees, while not intending to perform a steep turn
+
+Steps for recovery:
+
+Nose high:
+
+1. Pitch: nose down - level
+2. Power: add to full if not already full
+3. Bank: roll wings level
+
+Pitch comes first because in a nose-high attitude, you may be close to a stall.
+
+Nose Low: 
+
+1. Power: Reduce to idle
+2. Bank: roll wings level to reduce airframe stress
+3. Pitch: Level
+
+The nose-low recovery is the same order as the AIF scans. The nose-high one is a special case.
+
+Debrief notes: 
+- Really pay attention to the brakes during run-up
+- G430 work is important on the ground
+- Worked on unusual attitudes, that went well
+- Scans need some memorization work
+- Use the bug more when turning (before any turn, adjust the bug)
+- Don't abridge scans
+- Use the attitude indicator as a transition instrument
+- do a little, fly a little is important
+- Tune VORs to locate your current position
+- Use heading bug to intercept a desired course
+- More right rudder across the board
+- Calibrate crosshair to 90 knots
+- always clear before any maneuver
+- Power before pitch in stalls
+- Don't need to pitch up for altitude on power-on stall
+- Always recover to 90 knots after a stall
+- With power on, as you slowly pitch up, the left turning tendency matches the right turn tendency. We may need to add a bit of opposite aileron
+- The right wing may drop in a power on stall, don't stomp the left rudder. That'll spin the airplane. gently push the right rudder and hold some left aileron.
+- Engine fire: too long to do checklist
+- Field selection is fine
+- Too high and close on downwind spacing
+- Weather was really messing with me at WVI
+- Work on the centerline, crab into wind on upwind leg
+- Increase aileron in rollout for soft and short field
+- If too high, first try 1.3vso pitch up, then slip, then go around if necessary
+
+
 ## Quick Solo: May 18, 2021
 
 Not too much to say about this one. Took off from RHV and headed over through the east bay over to palo alto, before doing some patternwork there and heading back to RHV via the south bay and the SJC transition, where we make a downwind departure as if we are going to E16, then head over the anderson spillway and enter straight in to RHV. Was a good experience. Unfortunately, didn't have any time to do airwork along the way. Good experience though.
