@@ -15,7 +15,113 @@ At the end of each month, entries for that month will be moved to a new page for
 - [March 2021](mar-21.html)
 - [April 2021](apr-21.html)
 
-# Back to normal (ish): May 8 2021
+## Flight 34: May 15, 2021
+
+Another good flight, lots of new things going on lately. This time, the big thing that's new is the beginning of my minimal private pilot instrument flight training. Basically, Andrew puts me behind "the hood" (which is  a pair of partially blurred out glasses), which simulates being stuck in IMC where you can't see out of the airplane. The method of flying we learn is called attitude instrument flying. There're a lot of very specific types of things you need to do with them. Some examples ofnum this are very specific rules about how to look at the instruments - these are called "scans", and sprcific types of clearances you need to enter IMC. That's all part of actual instrument rating training, which I'll do eventually at some point. But for now, I'm just learning the very very basics to use in case of an emergency.
+ 
+Attitude-Instrument Flying (flight by reference to instruments):
+
+Two concepts that are necessary:
+
+- Primary/secondary
+- Control/performance
+
+The primary/secondary concept refers to the fact that each variable (bank, pitch, roll) can be measured by two instruments - a primary one and a secondary one. The primary one is one "where the needles don't move". For example, we can measure bank of the airplane, in straight and level flight, not with the attitude indicator, but instead with the heading indicator as the primary instrument. It will show a constant indication because there is not a turn active. A secondary instrument is either less precise or has a moving needle. We'll go through all of the situations in a minute.
+
+Control/performance concept means we use pitch and power settings (control) to establish desired attitudes, and then evaluate our performance with by crosschecking the instruments.
+
+There are 8 attitudes, each of which have specific scans associated with them and primary/secondary instruments for each. The attitudes are:
+
+1. Straight & Level
+2. Constant-rate descent
+3. Constant airspeed-descent
+4. Constant-airspeed climb
+5. Standard rate turn
+6. Constant rate descending turn
+7. Steep turn
+8. Climbing turn (constant-airspeed)
+
+Let's go through the scans and attitudes:
+
+#### Straight & Level Flight
+
+- Primary instruments: Power: Airspeed Bank: Heading indicator Pitch: Altimeter
+- Secondary instruments: Power: Tach, Bank: TC, Attitude Indicator  Pitch: VSI
+
+Scan: V-scan: ASI, HI, ALT
+
+#### Constant-rate descent (straight ahead)
+
+- Primary instruments: Power: Airspeed Bank: Heading indicator Pitch: VSI
+- Secondary instruments: Power: Tach, Bank: TC, Attitude Indicator,  Pitch: ALT
+
+Scan: Slide-scan: ASI, HI, VSI
+
+#### Constant-airspeed climb
+
+- Primary instruments: Power: Tach, Bank: Heading indicator, Pitch: Airspeed
+- Secondary instruments: Power: Tach, Bank: TC, Attitude Indicator,  Pitch: ALT, VSI
+
+Scan: Diagonal scan: Tach, HI, ASI
+
+Note: for this scan, after setting full power, omit the tachometer and switch to the mini-triangle scan of HI, ASI, AI
+
+#### Standard Rate Turn
+
+- Primary instruments: Power: Tach, Bank: Turn Coordinator indicator, Pitch: Altimeter
+- Secondary instruments: Power: Tach, Bank: AI, HI,  Pitch: VSI
+
+Scan: Check scan: ASI, TC, AI
+
+#### Constant-Airspeed descent
+
+- Primary instruments: Power: Tach, Bank: heading indicator, Pitch: Airspeed indicator
+- Secondary instruments: Power: Tach, Bank: AI,  Pitch: VSI
+
+Scan: Diagonal scan: Tach, HI, ASI
+
+Note: for this scan, after setting and achieving desired power, omit the tachometer and switch to the mini-triangle scan of HI, ASI, AI
+
+#### Constant-rate descending turn
+
+- Primary instruments: Power: ASI, Bank: turn coordinator, Pitch: VSI
+- Secondary instruments: Power: Tach, Bank: AI,  Pitch: Altimeter
+
+Scan: Parallelogram scan: ASI, TC, VSI
+
+#### Constant-airspeed descending turn
+
+- Primary instruments: Power: Tach, Bank: turn coordinator, Pitch: ASI
+- Secondary instruments: Power: Tach, Bank: AI,  Pitch: Altimeter, VSI
+
+Scan: Vertical scan: tach, TC, ASI
+
+#### Steep turn
+
+- Primary instruments: Power: ASI, Bank: AI, Pitch: ALT
+- Secondary instruments: Power: Tach, Bank: TC,  Pitch: VSI
+
+Scan: Flat scan: ASI, AI, ALT
+
+
+Common errors with attitude instrument flying: Omission (skipping one or more instrument that is hard to understand) Fixation (fixating on one instrument which provides an incomplete picture) emphasis (similar to fixation)
+
+Debrief from 5/15 notes: 
+
+- Good job overall with AIF
+- Plan to spend more time on recovery from unusual attitudes next week
+- Straight-in entry to KRHV from the south, went well but I descended late
+- Lot going on with the winds, they were kinda pushing me around at times
+- Practiced patternwork at RHV on both runways, did lots of go-arounds so that we didn't have to wait in line after full-stops the whole time
+- Be careful with runway alignment at RHV. Easy to accidentally drift into the upwind of the other runway, or the C airspace on the other side of 31L/13R
+- Nose up more in descent
+- Need more crosswind work
+- More right rudder across the board
+- Did some patternwork at palo alto, need to add power more promptly
+- Did better with xwinds at PAO
+
+
+## Back to normal (ish): May 8 2021
 
 Had a great flight this Saturday. Not as exciting as previous weeks. Didn't solo anywhere. Didn't do anything particularly exciting. But also didn't make any horrible mistakes and did a pretty good job with a few things. I flew N66978, the airplane that is at KRHV. Reid-Hillview is nice in a lot of ways. All of the taxi procedure is more normal. And the pattern operations are more normal. And the wind is usually soft and down the runway. And it's usually less busy. 
 
